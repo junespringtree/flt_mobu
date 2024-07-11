@@ -31,6 +31,17 @@ migrate_working_dir/
 .pub/
 /build/
 
+### added june 2024.07.11 로컬 셋팅 or 플랫폼 폴더 추가
+.metadata
+pubspec.lock
+/android/
+/ios/
+/linux/
+/macos/
+/test/
+/web/
+/windows/
+
 # Symbolication related
 app.*.symbols
 
